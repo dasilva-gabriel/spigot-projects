@@ -1,0 +1,6 @@
+name: HomeTransfer
+version: 1.0
+author: LowTix_
+main: fr.lowtix.hometransfer.HomeTransfer
+commands:
+  hometransfer:

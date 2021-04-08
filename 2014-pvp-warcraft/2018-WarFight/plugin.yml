@@ -1,0 +1,8 @@
+name: WarFight
+main: eu.pvpwarcraft.warfight.WarFight
+version: 1.0
+author: LowTix_
+commands:
+  wararena:
+    aliases: [waradmin, warfight]
+    description: Administration.    
