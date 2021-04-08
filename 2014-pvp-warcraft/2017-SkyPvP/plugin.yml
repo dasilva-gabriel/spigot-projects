@@ -1,0 +1,9 @@
+name: SkyPvP
+version: 2.0
+author: LowTix_
+main: eu.pvpwarcraft.skypvp.SkyPvP
+commands:
+  top:
+    aliases: [topkills, topp]
+  coins:
+    aliases: [coin, givecoins]

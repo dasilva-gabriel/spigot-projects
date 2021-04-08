@@ -1,0 +1,7 @@
+name: AutoclickerVerif
+author: LowTix_
+version: 1.0
+main: eu.pvpwarcraft.autoclickerverif.Autoclick
+commands:
+   verif:
+      usage: /verif player

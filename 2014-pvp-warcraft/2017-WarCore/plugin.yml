@@ -1,0 +1,7 @@
+name: WarCore
+author: LowTix_
+version: 1.0.1
+main: eu.pvpwarcraft.warcore.WarCore
+commands:
+  sanction:
+    aliases: [punish, sanc, modsanc, sancmod, ss]

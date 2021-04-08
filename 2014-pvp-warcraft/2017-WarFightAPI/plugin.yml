@@ -1,0 +1,25 @@
+name: WarFightAPI
+version: 1.0.1
+author: LowTix_
+main: eu.pvpwarcraft.warfightapi.WarFightAPI
+commands:
+  creative:
+    aliases: [gmc, crea]
+  survival:
+    aliases: [gms, surv]
+  spectator:
+    aliases: [gmsp]
+  adventure:
+    aliases: [gma]
+  tp:
+    aliases: [goto, teleport]
+  tphere:
+    aliases: [tptome]
+  fly:
+    aliases: [fly]
+  playerinfo:
+    aliases: [pinfo, whois]
+  mod:
+    aliases: [bcmod, modbc]
+  annonce:
+    aliases: [bcan, bc]

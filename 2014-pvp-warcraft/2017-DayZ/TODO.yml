@@ -1,0 +1,127 @@
+#----------------------------------------------------------------------------------------------------------------------------------#
+SONS:
+Sound.PORTAL = Canette qui s'ouvre
+Sound.PORTAL_TRAVEL = Snip
+Sound.PORTAL_TRIGGER = Fusil d'assaut
+
+#----------------------------------------------------------------------------------------------------------------------------------#
+
+DayZ z9pjRfj3DhUpyPeJ
+
+#----------------------------------------------------------------------------------------------------------------------------------#
+
+- Capacité:
+    • Médecine
+       > Plus le joueur à de niveau dans celle-ci, plus les transfusions sont rapides
+       > Plus le joueur à de niveau dans celle-ci, plus il pourra faire les transfusions dans des leiux insalubres
+       > Plus le joueur à de niveau dans celle-ci, plus il a de chances de gagner des poches de sang
+       
+    • Grenadier
+       > Plus le joueur à de niveau dans celle-ci, moins il prend de dégâts à la grenade
+       > Plus le joueur à de niveau dans celle-ci, plus il a de chances de gagner des grenades
+    
+    • Eclaireur
+       > Plus le joueur à de niveau dans celle-ci, plus le rayon de son satellite est grand
+       > Plus le joueur à de niveau dans celle-ci, plus de chance d'être averti lorsque l'on se fait repérer par un satellite
+       
+    • Soutien
+       > Plus le joueur à de niveau dans celle-ci, plus de chance il a de drop des munitions
+       > Tuer zombie = Chance de gagner des armes
+       
+
+- Système de "Bandit":
+    • Le système de points de banditisme
+    • Le système de Bandits/Parrains
+    • Le système de morts des Bandits/Parrains
+       > Lorsque je tue un joueur, selon l'arme, je gagne des points de banditisme
+       > Lorsque je meurt, je perd mes points (ou probabilité de soit perdre de moitié, soit entièrement)
+       > Dès lorsque j'atteint un seuil de points, je suis déclaré Bandit par les autorités
+       > Une prime est alors sur ma tête, si l'on me tue, mon assassin gagne de l'argent
+       > Si il n'y a aucun "Parrain" et que j'ai atteint un seuil, je deviens "Parrain"
+       > Le Parrain court plus vite, mais s'il se fais tuer, le tueur gagne masse argent et le Parrain perd de l'argent
+       > Lorsque le Parrain meut, il faut attendre X temps avant qu'un bandit puisse redevenir Parrain
+       
+- Système de Zones:
+    • Zone Blanche:
+       > Zone salubre avec peu de chance de trouver du bon stuff, endroit vaste et dégagé
+    • Zone Verte:
+       > Zone salubre avec peu de chance de trouver du bon stuff, endroit plus proche de la civilisation que la Blanche, zone des supply drops
+    • Zone Bleue:
+       > Zone salubre avec énormément de chance de trouver du bon stuff, endroit plus proche de la civilisation que la Verte
+    • Zone Rouge:
+       > Zone insalubre avec moins de chance de trouver du bon stuff mais avec les potions, enderchest, pas mal de Zombies (?? boost de coins)
+       
+- Retour au spawn:
+    • Bloqué le /spawn
+    • Système de rapatriement (coûte cher):
+       > Item style carpet à placé dans un endroit dégagé ou un toit
+       > Aller sur la carpet en 5 secondes sinon destruction de la carpet + explosion
+       > Attendre 10 secondes sur la carpet + animations
+       > Mettre en scène le joueur qui se fais hélitroier
+       
+- Système de Talki-Walki:
+    • Appuyer sur l'item qui représente le Talki-Walki (clique gauche)
+       > Menu avec liste de joueurs
+       > Cliquer sur un joueur pour enregistrer le joueur
+    • Appuyer sur l'item qui représente le Talki-Walki (clique droit)
+       > Appelle le joueur enregistrer
+         * Si le joueur à plus de 2 coeurs [car sinon il pourrait pas cliquer en vue de son état]
+         * Une fois par jours pour joueurs, toutes les 12h pour gradés...)
+         * S'il est dans une Zone Rouge il a 20% de chances que l'appel échoue, 10% dans la Zone Bleue et 5% dans la Verte
+       > S'il répond système d'hélitroiage (avec aucuns joueurs à moins de 250 blocs)
+       
+- Système de "Petite maison":
+    • Appuyer sur l'item qui représente la maison [un lit si texture pack normal] (clique gauche)
+       > Enregistre comme homme (enlevé la maison de l'inventaire)
+       > Au prochain respawn = téléporter à cette position
+       
+- Supply drops:
+    • Check toutes les X heures
+       > Si le nombres de joueurs est inférieur à se qui est prescrit = 50% de chance que ça échoue
+       > Sinon 10% de chance que ça échoue
+       
+- Grade gagnable IG:
+    > Recrue
+    > Apprentie I
+    > Apprentie II
+    > Soldat I
+    > Soldat II
+    > Soldat III
+    > Soldat IV
+    > Caporal I
+    > Caporal II
+    > Sergent I
+    > Sergent II
+    > Sergent III
+    > Adjudant I
+    > Adjudant II
+    > Major I
+    > Major II
+    > Lieutenant I
+    > Lieutenant II
+    > Lieutenant III
+    > Commandant
+    > Colonel
+    > Général I
+    > Général II
+    > Maréchal
+    
+- Grade achetable en Boutique:
+    • Elite
+    • Légende
+    • Ultime
+    • Suprême
+    
+- Kits:
+    • Assault
+       > Kit armure moyenne + Arme type Famas + Munitions
+    • Elite
+       > Kit petite armure + Arme sniper + Munitions
+    • Soin
+       > Aucune armure + Sac de sang + Beaucoup de bouffe
+    • Munitions
+       > Masse munitions
+    • Mastodonte
+       > Kit grosse armure + Arme de poing+ Munitions
+    • Terroriste
+       > Kit petite armure + Grenades...

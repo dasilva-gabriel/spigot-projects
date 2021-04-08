@@ -1,0 +1,9 @@
+name: WarFight-Meetup
+version: 1.0.1
+author: LowTix_
+main: eu.pvpwarcraft.meetup.Meetup
+commands:
+  game:
+    aliases: [admin, meetup]
+  retry:
+    aliases: [stuff, retrystuff]

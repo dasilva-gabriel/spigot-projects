@@ -1,0 +1,7 @@
+name: Warcraft-TheTowers
+version: 1.0.1
+author: LowTix_
+main: eu.pvpwarcraft.thetowers.TheTowers
+commands:
+  forcestart:
+    aliases: [fstart]

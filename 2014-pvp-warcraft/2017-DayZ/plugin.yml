@@ -1,0 +1,8 @@
+name: DayZ
+main: eu.pvpwarcraft.dayz.DayZ
+authors: [LowTix_, LeFlodu72]
+version: 5.0.1
+depend: [CrackShot, WorldEdit, WorldGuard, EssentialsSpawn]
+commands:
+  administration:
+    aliases: [admin, adm]
