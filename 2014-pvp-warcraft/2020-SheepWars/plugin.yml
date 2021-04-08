@@ -1,0 +1,8 @@
+name: WarOfSheeps
+author: cmuagab
+version: 1.8.1
+main: fr
+commands:
+  warofsheeps:
+    aliases: [wos, sheepwars, sw]
+    permission: warofsheeps.admin

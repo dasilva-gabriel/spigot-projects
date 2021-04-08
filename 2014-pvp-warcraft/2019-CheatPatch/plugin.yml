@@ -1,0 +1,11 @@
+name: CheatPatch
+version: 1.0.1
+main: fr.lowtix.cheatpatch.CheatPatch
+author: LowTix_
+depends: [WorldGuard, MassiveCore, Factions]
+commands:
+  warvote:
+  warminer:
+    aliases: [miner]
+  warkoth:
+  sb:

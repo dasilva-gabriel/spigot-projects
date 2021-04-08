@@ -1,0 +1,4 @@
+name: WarTracker
+version: 1.0.1
+main: fr.lowtix.wartracker.WarTracker
+author: LowTix_

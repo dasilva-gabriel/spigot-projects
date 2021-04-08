@@ -1,0 +1,45 @@
+name: WarCore
+author: LowTix_
+version: 1.0
+main: fr.lowtix.warcore.WarCore
+depend: [Vault, Factions, MassiveCore, PermissionsEx, Jobs]
+commands:
+  boutique:
+    aliases: [grade, grades, rank, ranks, achat, vip]
+  menu:
+    aliases: [info, information, infos, informations, aide]
+  levelup:
+    aliases: [rankup]
+  setrank:
+    aliases: [warrank, rankset]
+  adminrestore:
+  execshop:
+  afk:
+    aliases: [pause]
+  booster:
+    aliases: [boosters, boost]
+  merci:
+    aliases: [mr, thx, thanks]
+  profil:
+    aliases: [profile]
+  wtime:
+    aliases: [wartime]
+  mod:
+    aliases: [moderation]
+  question:
+    aliases: [helpop]
+  track:
+    aliases: [trackplayer, modemod]
+  account:
+    aliases: [myaccount]
+  site:
+    aliases: [forum, web, siteweb]
+  vote:
+    aliases: [votes]
+  creatif:
+    aliases: [crea, adinium, tepu, connard]
+  armor:
+    aliases: [armure]
+  punish:
+    aliases: [ss, sanc, sanction]
+  noafk:

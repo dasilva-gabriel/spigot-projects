@@ -1,0 +1,11 @@
+host: 127.0.0.1:3306
+username: pvpbox
+password: RmbfNEMjEzhOaH83
+database: pvpbox
+spawn:
+  world: world_lobby
+  x: 829.5
+  y: 195.5
+  z: 209.5
+  pitch: 0
+  yaw: 0

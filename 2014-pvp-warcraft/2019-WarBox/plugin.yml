@@ -1,0 +1,13 @@
+name: WarBox
+version: 3.0.1
+author: LowTix_
+main: fr.lowtix.warbox.WarBox
+depend: [PermissionsEx]
+commands:
+  menusmngr:
+  cratesgift:
+  boxeconomy:
+    aliases: [boxeco, beco]
+  spawn:
+  broadcast:
+    aliases: [bc]
