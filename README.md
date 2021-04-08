@@ -40,51 +40,29 @@ Les projets notés avec une ⭐ sont les projets les plus intéréssants a voir.
 
   
 
-| Nom | Année | Plateforme | API & Outils utilisée(s) | Description |
-
-|-------------------|-------|----------------------------------|--------------------------|----------------------------------------------------------------------|
-
-| SpawnersPatch | 2016 | PvPCheat, PvPFactions & Skyblock | Spigot uniquement | Interdire la destruction des spawners |
-
-| Tournois PvP | 2016 | PvPFactions | Spigot uniquement | Permettre aux joueurs de s'inscrire a un tournois |
-
-| ⭐ AutoclikerVerif | 2017 | Tous les serveurs | Spigot uniquement | Détecter une triche interdite appellée l'Autoclick. |
-
-| DayZ | 2017 | DayZ | Spigot & MySQL | Gestion du serveur DayZ (le coeur du serveur) |
-
-| SkyPvP | 2017 | SkyPvP | Spigot uniquement | Gestion du serveur SkyPvP (le coeur du serveur) |
-
-| TheTowers | 2017 | Mini-Jeux | Spigot uniquement | Remake du mode de jeu très connu TheTowers |
-
-| WarCore | 2017 | Tous les serveurs | Spigot uniquement | Système de modération pour sanctionner les joueurs (bannissement...) |
-
-| WarFactions | 2017 | PvPFactions | Spigot uniquement | Patch le serveur (potions interdites...) |
-
-| WarFightAPI | 2017 | WarFight | Spigot & MySQL | Gestion du serveur WarFight |
-
-| WarMeetup | 2017 | WarFight (meetup mode) | Spigot uniquement | MiniJeu nommé UHCMeetup |
-
-| BaseWar | 2018 | Mini-Jeux | Spigot & MySQL | Remake du mode de jeu KOTH (mix avec le mode de jeu Rush) |
-
-| HomeTransfer | 2018 | Tous les serveurs | Spigot uniquement | Permet de résoudre un bug du plugin Essentials |
-
-| WarBungee | 2018 | Proxy | Bungee & MySQL | Gestion du proxy |
-
-| WarFight | 2018 | WarFight (practice mode) | Spigot & WarFightAPI | Mode de jeu Practice |
-
-| WarLobby | 2018 | Lobby/Hub | Spigot | Gestion des serveurs lobby (porte d'entrée des serveurs) |
-
-| CheatPatch | 2019 | PvPCheat | Spigot uniquement | Patch le serveur (problèmes de blocks...) |
-
-| ⭐ WarBox | 2019 | PvPBox | Spigot & MySQL | Gestion du serveur PvPBox (coeur du serveur) |
-
-| ⭐ WarCore | 2019 | PvPFactions version 4 | Spigot & MySQL |  [GROS PROJET] Gestion du serveur (coeur du serveur) |
-
-| WarCoreBungee | 2019 | Proxy | Bungee | Commandes essentielles au proxy |
-
-| ⭐ WarOfSheep | 2020 | Mini-Jeux | Spigot (1.7) & MySQL | Mode de jeu SheepWars |
-
-| WarTracker | 2020 | DayZ version 3 | Spigot uniquement | Petit projet pour une fonctionnalité avec la boussole |
+| Nom               | Année | Plateforme                       | API & Outils utilisée(s) | Description                                                          |
+|:-----------------:|:-----:|:--------------------------------:|:------------------------:|:--------------------------------------------------------------------:|
+| SpawnersPatch     | 2016  | PvPCheat, PvPFactions & Skyblock | Spigot uniquement        | Interdire la destruction des spawners                                |
+| Tournois PvP      | 2016  | PvPFactions                      | Spigot uniquement        | Permettre aux joueurs de s'inscrire a un tournois                    |
+| ⭐ AutoclikerVerif | 2017  | Tous les serveurs                | Spigot uniquement        | Détecter une triche interdite appellée l'Autoclick.                  |
+| DayZ              | 2017  | DayZ                             | Spigot & MySQL           | Gestion du serveur DayZ (le coeur du serveur)                        |
+| SkyPvP            | 2017  | SkyPvP                           | Spigot uniquement        | Gestion du serveur SkyPvP (le coeur du serveur)                      |
+| TheTowers         | 2017  | Mini-Jeux                        | Spigot uniquement        | Remake du mode de jeu très connu TheTowers                           |
+| WarCore           | 2017  | Tous les serveurs                | Spigot uniquement        | Système de modération pour sanctionner les joueurs (bannissement...) |
+| WarFactions       | 2017  | PvPFactions                      | Spigot uniquement        | Patch le serveur (potions interdites...)                             |
+| WarFightAPI       | 2017  | WarFight                         | Spigot & MySQL           | Gestion du serveur WarFight                                          |
+| WarMeetup         | 2017  | WarFight (meetup mode)           | Spigot uniquement        | MiniJeu nommé UHCMeetup                                              |
+| BaseWar           | 2018  | Mini-Jeux                        | Spigot & MySQL           | Remake du mode de jeu KOTH (mix avec le mode de jeu Rush)            |
+| HomeTransfer      | 2018  | Tous les serveurs                | Spigot uniquement        | Permet de résoudre un bug du plugin Essentials                       |
+| WarBungee         | 2018  | Proxy                            | Bungee & MySQL           | Gestion du proxy                                                     |
+| WarFight          | 2018  | WarFight (practice mode)         | Spigot & WarFightAPI     | Mode de jeu Practice                                                 |
+| WarLobby          | 2018  | Lobby/Hub                        | Spigot                   | Gestion des serveurs lobby (porte d'entrée des serveurs)             |
+| CheatPatch        | 2019  | PvPCheat                         | Spigot uniquement        | Patch le serveur (problèmes de blocks...)                            |
+| ⭐ WarBox          | 2019  | PvPBox                           | Spigot & MySQL           | Gestion du serveur PvPBox (coeur du serveur)                         |
+| ⭐ WarCore         | 2019  | PvPFactions version 4            | Spigot & MySQL           | [GROS PROJET] Gestion du serveur (coeur du serveur)                  |
+| WarCoreBungee     | 2019  | Proxy                            | Bungee                   | Commandes essentielles au proxy                                      |
+| ⭐ WarOfSheep      | 2020  | Mini-Jeux                        | Spigot (1.7) & MySQL     | Mode de jeu SheepWars                                                |
+| WarTracker        | 2020  | DayZ version 3                   | Spigot uniquement        | Petit projet pour une fonctionnalité avec la boussole                |
 
   
 
@@ -100,13 +78,10 @@ Vous pourrez donc retrouver l'entièreté de mes projets [ici](https://github.co
 
   
 
-| Nom | Année | Plateforme | API & Outils utilisée(s) | Description |
-
-|-----------------|-------|------------|--------------------------|------------------------------------------------------|
-
-| AccountRecovery | 2019 | Factions | Spigot | Résolution de compte perdu (a cause des pseudonymes) |
-
-| PalaTraining | 2019 | Training | Spigot |  [Non terminé] Gestion du serveur |
+| Nom             | Année | Plateforme | API & Outils utilisée(s) | Description                                          |
+|:---------------:|:-----:|:----------:|:------------------------:|:----------------------------------------------------:|
+| AccountRecovery | 2019  | Factions   | Spigot                   | Résolution de compte perdu (a cause des pseudonymes) |
+| PalaTraining    | 2019  | Training   | Spigot                   | [Non terminé] Gestion du serveur                     |
 
   
 
