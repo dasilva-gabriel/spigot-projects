@@ -1,0 +1,5 @@
+name: PalaAccountRecovery
+author: LowTix_
+version: 1.0.1
+main: fr.paladium.palaaccountrecovery.PalaAccountRecovery
+depend: [Essentials, Vault]

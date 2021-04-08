@@ -1,0 +1,9 @@
+name: PalaTraining
+version: 1.0
+author: LowTix_
+main: fr.lowtix.palatraining.PalaTraining
+depend: [WorldEdit, PalaArenasManager]
+commands:
+  forceduel:
+  queuetest:
+  play:

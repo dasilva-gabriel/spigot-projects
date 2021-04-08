@@ -1,0 +1,26 @@
+- PALA TRAINING -
+
+Type 1vs1 et Team vs Team
+
+----- 1VS1 -----
+NON CLASSE:
+ - Plusieurs Kits
+ - Argent mis en jeu
+ 
+CLASSE:
+  - Un kit
+  - Elo
+  - Argent mis en jeu
+  
+DUEL:
+  - Non classé
+  - Plusieurs Kits
+  - Rien mis en jeu
+  
+----- TEAM VS TEAM -----
+- Pouvoir créer sa propre team
+- Seulement non classé via du duel
+- Argent mis en jeu
+
+- Seulement pour les team d'un maximum de 5.
+- Sinon TeamParty
