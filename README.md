@@ -90,3 +90,4 @@ Vous pourrez donc retrouver l'entièreté de mes projets [ici](https://github.co
   
 
 >  **Fonctions exercées**: Responsable Développement & Administrateur Système
+Rédaction en cours⏳
